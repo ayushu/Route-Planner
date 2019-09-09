@@ -1,4 +1,4 @@
-# Route Planner
+# Route Planner Using A* Search
 
 This project was done as part of the [Udacity Self-Driving Car Nanodegree](http://www.udacity.com/drive)
 
