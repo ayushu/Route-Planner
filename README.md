@@ -19,7 +19,7 @@ The map contains a network of the intersections, which are represented as a dict
 
 The `show_map` function is used to visualize the map. The main map is shown below:
 
-[Main Map](./images/full_map.png)
+![Main Map](./images/full_map.png)
 
 ## Route Planning
 
@@ -37,4 +37,4 @@ Finally, the `run_search` and `reconstruct_path` functions run the required part
 
 The final output, using Intersection 5 as the origin, and Intersection 34 as the destination is shown below:
 
-[Output Map](./images/map_routed.png)
+![Output Map](./images/map_routed.png)
